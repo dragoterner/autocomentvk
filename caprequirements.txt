@@ -1,0 +1,5 @@
+pip install vk-captchasolver
+pip install pyautogui
+pip install pywinauto
+pip install numpy
+pip install opencv-python
